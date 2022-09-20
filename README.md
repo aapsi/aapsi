@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aapsi</h1>
-<h3 align="center">I am a full stack web3 developer</h3>
+<h3 align="center">I am a full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/aapsik" target="blank"><img src="https://img.shields.io/twitter/follow/aapsik?logo=twitter&style=for-the-badge" alt="aapsik" /></a> </p>
 
