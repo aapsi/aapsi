@@ -105,7 +105,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aapsi&show_icons=true&hide_border=true" />
 <br>
 <!-- Most Used Languages -->
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapsi&layout=compact)"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aapsi&hide_progress=true)
 </p>
 <br>
 
