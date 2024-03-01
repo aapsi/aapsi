@@ -23,8 +23,7 @@
 
 - 🌱 I’m currently learning **Solidity** 
 
-- 🌱 Member : **Superwomen DAO**
-- 💬 Ask me about **Blockchain, Javascript, React, ML/AI**
+- 🌱 Contributer: Superteam India
 
 - 📫 How to reach me : **aapsikhaira98@gmail.com**
 
