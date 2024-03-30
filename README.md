@@ -17,11 +17,11 @@
 
 <br>
 
-- 🌱 I am a FullStack developer breaking into the world of Blockchain**
+- 🌱 I am a **Blockchain developer**
 
 - 🌱 Previously worked  **@tcs** as a FullStack Developer(Python, React)
 
-- 🌱 I’m currently learning **Solidity** 
+- 🌱 I’m currently learning **Tokenization, DEFi** 
 
 - 🌱 Contributer: Superteam India
 
