@@ -126,4 +126,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Overview of the Polter Finance Hack](https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5?source=rss-77b7c1eab247------2)
+- [Aptos Blockchain: A Developer’s Guide](https://medium.com/@aapsikhaira98/aptos-blockchain-a-developers-guide-ed3b27eb0588?source=rss-77b7c1eab247------2)
+- [Forking Ethereum Mainnet: A Comprehensive Guide for Testing with Hardhat](https://medium.com/coinmonks/forking-ethereum-mainnet-a-comprehensive-guide-for-testing-with-hardhat-c78452bf71cb?source=rss-77b7c1eab247------2)
+- [Solidity Style Guide: Correct naming convention and function order](https://medium.com/coinmonks/solidity-style-guide-correct-naming-convention-and-function-order-a1976eb0a9a2?source=rss-77b7c1eab247------2)
+- [Solidity special comments: NatSpec documentation format](https://coinsbench.com/solidity-special-comments-natspec-documentation-format-388da664a76a?source=rss-77b7c1eab247------2)
 <!-- BLOG-POST-LIST:END -->
