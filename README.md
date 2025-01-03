@@ -69,26 +69,20 @@
 <br>
 
 <p align="center">
-<h4> Web Development </h4>
+<h4> Backend Development </h4>
 <span> 
   
   
- <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="40" height="45" >
-<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="40" height="45">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="45" >
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="40" height="45">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="40" height="45">
   
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="45">
-  
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="45">
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
-<!--  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-89E99D7181-seeklogo.com.png" width="75" height="40"> 
-<!--    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> -->
-  <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" width="65" height="40" >
-  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" width="45" height="45">
   <br><br>
   <h4> Web3 </h4>
   <br>
-  <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="35" height="45" >
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IPFS-Dark.svg" width="35" height="45" >
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" width="35" height="45" >
   
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="50" height="40" >
 
