@@ -119,7 +119,7 @@
 </picture>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width ="25"><b> Metrics</b>
+
 <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
