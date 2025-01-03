@@ -122,9 +122,9 @@
 
 [![Aapsi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aapsi)](https://github.com/aapsi/github-readme-stats)
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width ="25"><b> Blog posts</b>
+<br>
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Overview of the Polter Finance Hack](https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5?source=rss-77b7c1eab247------2)
 - [Aptos Blockchain: A Developer’s Guide](https://medium.com/@aapsikhaira98/aptos-blockchain-a-developers-guide-ed3b27eb0588?source=rss-77b7c1eab247------2)
