@@ -28,17 +28,21 @@
 
 <br>
 
-- 🌱 I am a **Blockchain developer**
+- 🌱 I am a **Smart Contract Developer and Security Researcher**
 
-- 🌱 Previously worked  **@tcs** as a FullStack Developer(Python, React)
+- 🌱 I’m currently learning **Tokenization, DEFi and Security** 
 
-- 🌱 I’m currently learning **Tokenization, DEFi** 
+- 🌱 
 
-- 🌱 Contributer: Superteam India
+- 🌱 Ambassador: Avalanche Team 1
 
 - 📫 How to reach me : **aapsikhaira98@gmail.com**
--  Updated Resume: [Notion](https://opaque-polyanthus-299.notion.site/GM-GM-17067f4480db802cbfa2f4d82d01dd0e)
-
+  
+- 🐦 [Twitter](https://x.com/AapsiK)
+  
+- 📝 [Notion Resume](https://opaque-polyanthus-299.notion.site/GM-GM-17067f4480db802cbfa2f4d82d01dd0e)
+  
+- 📝 [PDF Resume](https://drive.google.com/file/d/13kPz3DYtFajSLaNnGJCNgj3yDn26-7Ef/view?usp=sharing)
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
