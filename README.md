@@ -37,6 +37,7 @@
 - 🌱 Contributer: Superteam India
 
 - 📫 How to reach me : **aapsikhaira98@gmail.com**
+-  Updated Resume: [Notion](https://opaque-polyanthus-299.notion.site/GM-GM-17067f4480db802cbfa2f4d82d01dd0e)
 
 <br>
 
