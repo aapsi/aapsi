@@ -32,8 +32,6 @@
 
 - 🌱 I’m currently learning **Tokenization, DEFi and Security** 
 
-- 🌱 
-
 - 🌱 Ambassador: Avalanche Team 1
 
 - 📫 How to reach me : **aapsikhaira98@gmail.com**
