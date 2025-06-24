@@ -117,7 +117,7 @@
 
 
 <br>
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width ="25"><b> Blog posts</b>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width ="25"><b> Blog posts</b>
 <br>
 
 <!-- BLOG-POST-LIST:START -->
@@ -128,8 +128,13 @@
 - [Solidity special comments: NatSpec documentation format](https://coinsbench.com/solidity-special-comments-natspec-documentation-format-388da664a76a?source=rss-77b7c1eab247------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width ="25"><b> Rootstock Blog posts</b>
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 - [Building an ERC20 Permit Token on Rootstock: A Complete Guide](https://rootstock.hashnode.dev/building-an-erc20-permit-token-on-rootstock-a-complete-guide)
 - [Writing Secure Smart Contracts on Rootstock: The Importance of the CEI Pattern](https://rootstock.hashnode.dev/writing-secure-smart-contracts-on-rootstock-the-importance-of-the-cei-pattern)
 - [Deploying an ERC-721 NFT on Rootstock Testnet: A Complete Guide for Developers](https://rootstock.hashnode.dev/deploying-an-erc-721-nft-on-rootstock-testnet)
+
 <!-- BLOG-POST-LIST:END -->
