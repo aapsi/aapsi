@@ -30,7 +30,7 @@
 </picture>
 
 - 🌱 Smart Contract Developer and Security Researcher  
-- 💡 Currently learning Rust 
+- 💡 Currently learning DeFi, Assembly and trying to make sense of ZK 
 - 🌐 Ambassador at **Avalanche (Team 1)**  
 - 📄 [Notion Resume](https://opaque-polyanthus-299.notion.site/GM-GM-17067f4480db802cbfa2f4d82d01dd0e)  
 - 📄 [PDF Resume](https://drive.google.com/file/d/13kPz3DYtFajSLaNnGJCNgj3yDn26-7Ef/view?usp=sharing)
