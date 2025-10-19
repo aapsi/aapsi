@@ -117,9 +117,3 @@
 - [Deploying ERC721 NFTs on Rootstock Testnet](https://rootstock.hashnode.dev/deploying-an-erc-721-nft-on-rootstock-testnet)  
 
 <br><br>
-
-## 🙌 Thanks for Visiting!
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aapsi/count.svg?" alt="visitor counter" />
-</div>
