@@ -31,8 +31,6 @@
 
 - 🌱 Smart Contract Developer and Security Researcher  
 - 💡 Currently learning DeFi, Assembly and trying to make sense of ZK 
-- 🌐 Ambassador at **Avalanche (Team 1)**  
-
 
 <br><br>
 
