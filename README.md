@@ -9,7 +9,9 @@
 
 <p align="center"><b>Engineer at <a href="https://bloxtel.com/">Bloxtel</a> · India</b></p>
 
-I specialize in **smart contract engineering and distributed systems**. My core expertise spans **Solidity, DeFi protocol development, and smart contract security**, alongside the system design and infrastructure that connect onchain logic to real-world networks.
+I’m a **software engineer working across distributed systems, infrastructure, and decentralized networks**. My work spans system design, backend services, and the applications people use—connecting the pieces into reliable, end-to-end systems.
+
+I started in **smart contract development**, building a strong foundation in Solidity, DeFi, and protocol security. Today, that foundation informs a broader engineering practice across onchain and offchain systems.
 
 I’m well versed in **RWA tokenization and institutional banking use cases**—connecting asset representation, ownership, and settlement with programmable financial infrastructure. My broader interests include DePIN, DLT, and privacy.
 
@@ -42,7 +44,7 @@ At Bloxtel, I work at the intersection of **distributed systems, DePIN, and dece
 
 ## Where I go deep
 
-**Smart contracts are a core part of my engineering practice**: Solidity and Yul, DeFi primitives, and security-conscious contract design, backed by testing with Foundry and Hardhat. That foundation extends into **RWA tokenization, institutional banking use cases, and distributed infrastructure**.
+My strengths span **distributed systems and system design**, **smart contract engineering and security**, and **RWA tokenization for institutional finance**. I care about how these layers fit together: how services coordinate, how contracts enforce rules, and how the complete system behaves when something fails.
 
 <p align="center">
   <picture><img src="./assets/panels/systems.svg" width="410" alt="Distributed systems and infrastructure: how services coordinate, share state, and recover from failure across onchain and offchain systems."></picture>
