@@ -31,3 +31,5 @@ The two `pacman-*.svg` files are unchanged cached copies of the existing output-
 ## Graphic profile cards
 
 `panels/` contains the profile expertise, curiosity, and writing cards, composed as SVG with Lucide icons and outlined [Space Grotesk](https://github.com/floriankarsten/space-grotesk) lettering. Space Grotesk is covered by `OFL-SpaceGrotesk.txt`. Icons retain the license in `icons/LICENSE`. Cards use image alternative text for their complete meaning and stack individually on mobile.
+
+The current-work panels describe distributed systems and DePIN at Bloxtel. Company context (private 5G, onchain identity, and tokenized infrastructure) is based on [Bloxtel’s public website](https://bloxtel.com/). All informational images use picture wrappers to prevent GitHub automatic image redirects.

@@ -7,15 +7,15 @@
 
 <h1 align="center">Hi, I'm Aapsi</h1>
 
-<p align="center"><b>Engineer at <a href="https://bloxtel.com/">Bloxtel</a> · India</b><br>Distributed systems · Infrastructure · RWA tokenization</p>
+<p align="center"><b>Engineer at <a href="https://bloxtel.com/">Bloxtel</a> · India</b><br>Distributed systems · DePIN · RWA tokenization</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><picture>
+  <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/focus-static-dark.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/focus-static-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-typing-dark.svg">
     <img src="./assets/focus-typing-light.svg" width="700" alt="System design, DeFi, and distributed systems. Well versed in RWA tokenization and institutional banking use cases. Curious about neuroscience and DLT.">
-  </picture></a>
+  </picture>
 </p>
 
 <p align="center">
@@ -25,51 +25,60 @@
   <a href="https://medium.com/@aapsikhaira98"><img src="./assets/badges/writing.svg" height="28" alt="Read my writing"></a>
 </p>
 
+## Currently at Bloxtel
+
+My work sits at the intersection of **distributed systems, DePIN, and decentralized telecom infrastructure**—connecting backend services, physical networks, and onchain systems.
+
+<p align="center">
+  <picture><img src="./assets/panels/bloxtel.svg" width="410" alt="Engineer at Bloxtel: distributed systems for decentralized telecom, backend services, and onchain–offchain integration."></picture>
+  <picture><img src="./assets/panels/depin.svg" width="410" alt="DePIN at Bloxtel: private 5G, onchain identity, tokenized infrastructure, and verifiable ownership."></picture>
+</p>
+
 ## Where I go deep
 
 <p align="center">
-  <img src="./assets/panels/systems.svg" width="410" alt="Distributed systems and infrastructure: backend architecture, service coordination, onchain–offchain integration, reliability, and failure recovery.">
-  <img src="./assets/panels/rwa.svg" width="410" alt="Well versed in RWA tokenization: asset representation, token design, and the onchain asset lifecycle.">
-  <img src="./assets/panels/banking.svg" width="410" alt="Well versed in institutional RWA and banking use cases: identity, compliance, ownership, and settlement.">
-  <img src="./assets/panels/defi.svg" width="410" alt="DeFi and security: smart contracts, vaults, financial primitives, protocol security. Solidity, Yul, Foundry.">
+  <picture><img src="./assets/panels/systems.svg" width="410" alt="Distributed systems and infrastructure: backend architecture, service coordination, onchain–offchain integration, reliability, and failure recovery."></picture>
+  <picture><img src="./assets/panels/rwa.svg" width="410" alt="Well versed in RWA tokenization: asset representation, token design, and the onchain asset lifecycle."></picture>
+  <picture><img src="./assets/panels/banking.svg" width="410" alt="Well versed in institutional RWA and banking use cases: identity, compliance, ownership, and settlement."></picture>
+  <picture><img src="./assets/panels/defi.svg" width="410" alt="DeFi and security: smart contracts, vaults, financial primitives, protocol security. Solidity, Yul, Foundry."></picture>
 </p>
 
 ## Languages & toolkit
 
 <p align="center">
   <b>The languages</b><br><br>
-  <a href="https://github.com/tandpfun/skill-icons"><img src="./assets/languages.svg" width="390" alt="Go, Rust, TypeScript, JavaScript, Python, and Solidity"></a><br>
+  <picture><img src="./assets/languages.svg" width="390" alt="Go, Rust, TypeScript, JavaScript, Python, and Solidity"></picture><br>
   <sub>Go · Rust · TypeScript · JavaScript · Python · Solidity · Yul</sub>
 </p>
 <p align="center">
   <b>From contracts to interfaces</b><br><br>
-  <a href="https://github.com/tandpfun/skill-icons"><img src="./assets/toolkit.svg" width="190" alt="React, Node.js, and Git"></a><br>
+  <picture><img src="./assets/toolkit.svg" width="190" alt="React, Node.js, and Git"></picture><br>
   <sub>React · Node.js · Git · Foundry · Hardhat</sub>
 </p>
 
 ## Currently loading into my brain
 
 <p align="center">
-  <img src="./assets/panels/neuroscience.svg" width="410" alt="Learning neuroscience: memory, cognition, and how connected neurons become a mind.">
-  <img src="./assets/panels/privacy.svg" width="410" alt="Exploring DLT and privacy: consensus, interoperability, and trust.">
-  <img src="./assets/panels/rwa-next.svg" width="410" alt="Deepening my RWA expertise: institutional adoption and the role of tokenized assets in financial systems.">
-  <img src="./assets/panels/resilience.svg" width="410" alt="Exploring DeFi mechanisms, system resilience, risk, and failure modes.">
+  <picture><img src="./assets/panels/neuroscience.svg" width="410" alt="Learning neuroscience: memory, cognition, and how connected neurons become a mind."></picture>
+  <picture><img src="./assets/panels/privacy.svg" width="410" alt="Exploring DLT and privacy: consensus, interoperability, and trust."></picture>
+  <picture><img src="./assets/panels/rwa-next.svg" width="410" alt="Deepening my RWA expertise: institutional adoption and the role of tokenized assets in financial systems."></picture>
+  <picture><img src="./assets/panels/resilience.svg" width="410" alt="Exploring DeFi mechanisms, system resilience, risk, and failure modes."></picture>
 </p>
 
 ## The GitHub side of the story
 
 <p align="center">
-  <a href="https://github.com/aapsi?tab=overview"><img src="./assets/cards/profile-details.svg" width="700" alt="Aapsi's GitHub contribution timeline, generated from public profile data"></a><br>
-  <a href="https://github.com/aapsi?tab=overview"><img src="./assets/cards/stats.svg" width="340" alt="GitHub statistics: stars, commits, pull requests, issues, and repositories contributed to"></a>
-  <a href="https://github.com/aapsi?tab=repositories"><img src="./assets/cards/languages.svg" width="340" alt="Languages across public repositories, led by Solidity"></a><br>
+  <picture><img src="./assets/cards/profile-details.svg" width="700" alt="Aapsi's GitHub contribution timeline, generated from public profile data"></picture><br>
+  <picture><img src="./assets/cards/stats.svg" width="340" alt="GitHub statistics: stars, commits, pull requests, issues, and repositories contributed to"></picture>
+  <picture><img src="./assets/cards/languages.svg" width="340" alt="Languages across public repositories, led by Solidity"></picture><br>
   <sub>Public GitHub activity · cards refreshed daily</sub>
 </p>
 
 ## Things I write & contribute
 
 <p align="center">
-  <a href="https://medium.com/@aapsikhaira98"><img src="./assets/panels/writing.svg" width="410" alt="Read my writing on smart contract security, DeFi, and protocols."></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aaapsi&type=pullrequests"><img src="./assets/panels/opensource.svg" width="410" alt="Explore my merged open-source contributions to Compose and Ethereum."></a>
+  <picture><img src="./assets/panels/writing.svg" width="410" alt="Writing on smart contract security, DeFi, and protocols."></picture>
+  <picture><img src="./assets/panels/opensource.svg" width="410" alt="Merged open-source contributions to Compose and Ethereum."></picture>
 </p>
 
 <details>
