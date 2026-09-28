@@ -53,18 +53,30 @@ I’m learning neuroscience to understand **how biology could inform the future 
 
 <br>
 
-## Writing & open source
+## Open-source contributions
 
-I write about smart contract security and DeFi, and contribute to **Compose and Ethereum**.
+**Merged work in Compose and Ethereum’s EIP repository.**
+
+- **Compose — contract architecture & standards.** [Modular ERC-1155 facets](https://github.com/Perfect-Abstractions/Compose/pull/286), [ERC-1155 tests](https://github.com/Perfect-Abstractions/Compose/pull/166), and an [ERC-2981 royalty implementation](https://github.com/Perfect-Abstractions/Compose/pull/126).
+- **Ethereum EIPs — specification maintenance.** [EIP-7002 variable-name correction](https://github.com/ethereum/EIPs/pull/9768) and editorial corrections to [EIP-6110](https://github.com/ethereum/EIPs/pull/9767), [EIP-4444](https://github.com/ethereum/EIPs/pull/9766), and [EIP-7702](https://github.com/ethereum/EIPs/pull/9765).
+
+**Also contributing — open pull requests**
+
+- **ethskills — AI agent tooling.** [Audit-module integration](https://github.com/austintgriffith/ethskills/pull/116) and [smart contract security guidance for agents](https://github.com/austintgriffith/ethskills/pull/115).
+- **Rootstock & Aztec — developer tooling.** [CLI address validation](https://github.com/rsksmart/rsk-cli/pull/188) and [consistent script error handling](https://github.com/AztecProtocol/aztec-starter/pull/197).
+
+<br>
+
+## Writing
+
+I write about smart contract security, DeFi, and protocol behavior.
 
 <details>
-<summary>Selected articles & merged contributions</summary>
+<summary>Selected articles</summary>
 
 - [Inside the Polter Finance hack](https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5)
 - [ERC20 Permit on Rootstock](https://rootstock.hashnode.dev/building-an-erc20-permit-token-on-rootstock-a-complete-guide)
 - [The CEI security pattern](https://rootstock.hashnode.dev/writing-secure-smart-contracts-on-rootstock-the-importance-of-the-cei-pattern)
-- Compose: [ERC-1155 facets](https://github.com/Perfect-Abstractions/Compose/pull/286) · [tests](https://github.com/Perfect-Abstractions/Compose/pull/166) · [ERC-2981](https://github.com/Perfect-Abstractions/Compose/pull/126)
-- Ethereum: [EIP specification & documentation corrections](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Aaapsi+is%3Amerged)
 
 </details>
 
@@ -85,15 +97,35 @@ I write about smart contract security and DeFi, and contribute to **Compose and 
 ## Languages & toolkit
 
 <p align="center">
-  <b>The languages</b><br><br>
-  <picture><img src="./assets/languages.svg" width="390" alt="Go, Rust, TypeScript, JavaScript, Python, and Solidity"></picture><br>
+  <b>Languages</b><br><br>
+  <picture><img src="./assets/languages.svg" width="340" alt="Go, Rust, TypeScript, JavaScript, Python, and Solidity"></picture><br>
   <sub>Go · Rust · TypeScript · JavaScript · Python · Solidity · Yul</sub>
 </p>
+
+<br>
+
 <p align="center">
-  <b>From contracts to interfaces</b><br><br>
-  <picture><img src="./assets/toolkit.svg" width="190" alt="React, Node.js, and Git"></picture><br>
-  <sub>React · Node.js · Git · Foundry · Hardhat</sub>
+  <b>Applications</b><br><br>
+  <picture><img src="./assets/application-toolkit.svg" width="280" alt="React, Next.js, Tailwind CSS, Node.js, and Express"></picture><br>
+  <sub>React · Next.js · Tailwind CSS · Node.js · Express</sub>
 </p>
+
+<br>
+
+<p align="center"><b>Data & persistence</b><br>
+MongoDB · Mongoose</p>
+
+<p align="center"><b>Protocols & standards</b><br>
+Ethereum / EVM · ERC-20 · ERC-721 · ERC-1155 · ERC-2981</p>
+
+<p align="center"><b>AI & agent tooling</b><br>
+Security guidance and plugin contributions to ethskills</p>
+
+<p align="center"><b>Contract development & testing</b><br>
+Foundry · Hardhat</p>
+
+<p align="center"><b>Version control & automation</b><br>
+Git · GitHub Actions</p>
 
 <br>
 

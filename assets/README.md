@@ -39,3 +39,5 @@ The current-work panels describe distributed systems and DePIN at Bloxtel. Compa
 The displayed `aapsi-pixel-room.gif` adapts the user’s public GitHub avatar into the original gaming-room character. Two generated appearance poses face the monitor and turn with the original drinking action. The original hand and drink animation is preserved; no separate arm rig is used. The room and its animation remain credited above.
 
 The pose sources and full built-in generation prompts are documented in [aapsi-pixel-room.prompt.md](./aapsi-pixel-room.prompt.md). `aapsi-pixel-room-still.png` is the reduced-motion fallback. The original `pixel-room.gif` remains the animation source.
+
+- `application-toolkit.svg`: Skill Icons (`react,nextjs,tailwind,nodejs,express`), cached locally. Toolkit entries reflect project manifests and existing profile tooling; no private employer implementation details are included.
