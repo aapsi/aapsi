@@ -1,0 +1,6 @@
+{
+  "name": "aapsi-profile-artwork",
+  "private": true,
+  "scripts": { "generate": "node scripts/generate-welcome.cjs" },
+  "devDependencies": { "opentype.js": "1.3.4" }
+}
