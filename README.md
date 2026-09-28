@@ -9,7 +9,9 @@
 
 <p align="center"><b>Engineer at <a href="https://bloxtel.com/">Bloxtel</a> · India</b></p>
 
-I build **distributed systems**, with a focus on system design, infrastructure, and DePIN. I’m well versed in **RWA tokenization and its applications in institutional banking**, with interests spanning DeFi, DLT, and privacy.
+I specialize in **smart contract engineering and distributed systems**. My core expertise spans **Solidity, DeFi protocol development, and smart contract security**, alongside the system design and infrastructure that connect onchain logic to real-world networks.
+
+I’m well versed in **RWA tokenization and institutional banking use cases**—connecting asset representation, ownership, and settlement with programmable financial infrastructure. My broader interests include DePIN, DLT, and privacy.
 
 Beyond engineering, I’m exploring **biological intelligence**—how living systems learn and adapt, and what those mechanisms could teach us about building AI.
 
@@ -40,7 +42,7 @@ At Bloxtel, I work at the intersection of **distributed systems, DePIN, and dece
 
 ## Where I go deep
 
-I’m well versed in **real-world asset tokenization and institutional banking use cases**, alongside distributed infrastructure, DeFi, and protocol security.
+**Smart contracts are a core part of my engineering practice**: Solidity and Yul, DeFi primitives, and security-conscious contract design, backed by testing with Foundry and Hardhat. That foundation extends into **RWA tokenization, institutional banking use cases, and distributed infrastructure**.
 
 <p align="center">
   <picture><img src="./assets/panels/systems.svg" width="410" alt="Distributed systems and infrastructure: how services coordinate, share state, and recover from failure across onchain and offchain systems."></picture>
