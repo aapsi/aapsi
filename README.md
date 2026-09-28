@@ -14,7 +14,7 @@
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/focus-static-dark.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/focus-static-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-typing-dark.svg">
-    <img src="./assets/focus-typing-light.svg" width="700" alt="System design, DeFi, and distributed systems. Well versed in RWA tokenization and institutional banking use cases. Curious about neuroscience and DLT.">
+    <img src="./assets/focus-typing-light.svg" width="700" alt="System design, DeFi, and distributed systems. Well versed in RWA tokenization and institutional banking use cases. Exploring how biological intelligence can inform AI, alongside DLT and privacy.">
   </picture>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## Currently at Bloxtel
 
-At Bloxtel, my focus is **distributed systems and DePIN**. Bloxtel develops decentralized private 5G infrastructure with onchain identity and tokenized ownership.
+At Bloxtel, I work at the intersection of **distributed systems, DePIN, and decentralized telecom**. My focus is the engineering behind connected infrastructure: how software and physical networks coordinate, establish trust, and remain reliable in the real world.
 
 <p align="center">
   <picture><img src="./assets/panels/bloxtel.svg" width="410" alt="Engineer at Bloxtel, focused on distributed systems, DePIN, and decentralized telecom infrastructure."></picture>
@@ -36,8 +36,10 @@ At Bloxtel, my focus is **distributed systems and DePIN**. Bloxtel develops dece
 
 ## Where I go deep
 
+I’m well versed in **real-world asset tokenization and institutional banking use cases**, alongside distributed infrastructure, DeFi, and protocol security.
+
 <p align="center">
-  <picture><img src="./assets/panels/systems.svg" width="410" alt="Distributed systems and infrastructure: backend architecture, service coordination, onchain–offchain integration, reliability, and failure recovery."></picture>
+  <picture><img src="./assets/panels/systems.svg" width="410" alt="Distributed systems and infrastructure: how services coordinate, share state, and recover from failure across onchain and offchain systems."></picture>
   <picture><img src="./assets/panels/rwa.svg" width="410" alt="Well versed in RWA tokenization: asset representation, token design, and the onchain asset lifecycle."></picture>
   <picture><img src="./assets/panels/banking.svg" width="410" alt="Well versed in institutional RWA and banking use cases: identity, compliance, ownership, and settlement."></picture>
   <picture><img src="./assets/panels/defi.svg" width="410" alt="DeFi and security: smart contracts, vaults, financial primitives, protocol security. Solidity, Yul, Foundry."></picture>
@@ -58,13 +60,13 @@ At Bloxtel, my focus is **distributed systems and DePIN**. Bloxtel develops dece
 
 ## What keeps me curious
 
-I'm drawn to how small interactions create complex behavior—from a neuron firing to a distributed network reaching agreement. Right now, I'm exploring the brain's electrical foundations, while following questions about trust, ownership, and resilience in the systems we build.
+I’m learning **neuroscience to understand biological intelligence**: how living systems learn, adapt, and make sense of the world—and what that could teach us about AI. As AI becomes a larger part of how we work and live, I want to understand how insights from biology might shape the systems we build next.
 
 <p align="center">
-  <picture><img src="./assets/panels/neuroscience.svg" width="410" alt="Exploring the brain from the cell up: ion channels, membrane potentials, and the electrical language of neurons."></picture>
-  <picture><img src="./assets/panels/privacy.svg" width="410" alt="DLT and privacy: how strangers agree on shared state, and what a system should prove without revealing."></picture>
-  <picture><img src="./assets/panels/rwa-next.svg" width="410" alt="Deepening my RWA expertise: what makes tokenized ownership useful, trustworthy, and usable by institutions."></picture>
-  <picture><img src="./assets/panels/resilience.svg" width="410" alt="System resilience: how incentives, partial failures, and imperfect information shape real-world behavior."></picture>
+  <picture><img src="./assets/panels/neuroscience.svg" width="410" alt="Learning neuroscience to understand biological intelligence: how living systems learn and adapt, and how insights from biology could inform the future of AI."></picture>
+  <picture><img src="./assets/panels/privacy.svg" width="410" alt="DLT and privacy: how networks establish trust and agreement while preserving privacy and autonomy."></picture>
+  <picture><img src="./assets/panels/rwa-next.svg" width="410" alt="Deepening my RWA expertise: how tokenized assets fit into institutions, and what adoption means for ownership, access, and infrastructure."></picture>
+  <picture><img src="./assets/panels/resilience.svg" width="410" alt="System resilience: how incentives and technical design interact under uncertainty, changing conditions, and human behavior."></picture>
 </p>
 
 ## The GitHub side of the story
