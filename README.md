@@ -7,14 +7,18 @@
 
 <h1 align="center">Hi, I'm Aapsi</h1>
 
-<p align="center"><b>Engineer at <a href="https://bloxtel.com/">Bloxtel</a> · India</b><br>Distributed systems · DePIN · RWA tokenization</p>
+<p align="center"><b>Engineer at <a href="https://bloxtel.com/">Bloxtel</a> · India</b></p>
+
+I build **distributed systems**, with a focus on system design, infrastructure, and DePIN. I’m well versed in **RWA tokenization and its applications in institutional banking**, with interests spanning DeFi, DLT, and privacy.
+
+Beyond engineering, I’m exploring **biological intelligence**—how living systems learn and adapt, and what those mechanisms could teach us about building AI.
 
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/focus-static-dark.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/focus-static-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-typing-dark.svg">
-    <img src="./assets/focus-typing-light.svg" width="700" alt="System design, DeFi, and distributed systems. Well versed in RWA tokenization and institutional banking use cases. Exploring how biological intelligence can inform AI, alongside DLT and privacy.">
+    <img src="./assets/focus-typing-light.svg" width="700" alt="">
   </picture>
 </p>
 
