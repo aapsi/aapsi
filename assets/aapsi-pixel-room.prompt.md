@@ -8,8 +8,17 @@ Use case: identity-preserve / precise-object-edit. Edit target: Image 1, the exi
 
 ## Animation assembly
 
-`scripts/build-personal-room.cjs` combines the generated character region with each original room frame. The room retains its 49 frames at 100 ms each, looping indefinitely. The personalized character is static within the moving scene. The result is 800×450; the still is its reduced-motion counterpart.
+`scripts/build-personal-room.cjs` combines the generated character region with each original room frame. The room retains its 49 frames at 100 ms each, looping indefinitely. The likeness remains registered in place; a connected sleeve/hand/drink rig animates the reach, sip, and return. The old desk-bottle motion is removed using an empty-desk region from the original animation. The result is 800×450; the still is its reduced-motion counterpart.
 
 Outputs: `aapsi-pixel-room.gif`, `aapsi-pixel-room-still.png`. The unmodified generated output is `aapsi-room-source.png`.
 
 To rebuild with Node.js and Sharp installed: `node scripts/build-personal-room.cjs`. Alternatively, set `SHARP_MODULE` to an existing Sharp installation.
+
+
+## Drinking-action correction
+
+A second built-in image-generation edit supplied reaching, lifting, sipping, and returning poses in `aapsi-drinking-source.png`. The sheet serves as motion/art reference and supplies the isolated grip sprite (`aapsi-drink-grip.png`); its room layout is not substituted into the animation. The assembly script connects the sleeve, grip, and drink throughout a smooth path and rotates the opening toward the lips. The original bottle is absent during the sip and restored to its desk position on return.
+
+Final generation prompt:
+
+Precise animation sprite-sheet edit. The reference is a personalized pixel-art gaming-room frame. Deliver a perfectly registered 2 by 2 contact sheet of FOUR frames of this EXACT full scene, in row-major order, with NO gaps, NO labels, NO borders, and no camera changes. Overall canvas 1600x900; each equal tile is the entire 800x450 reference scene. Preserve the room, seated woman's likeness, long dark hair, black top, mushroom chair, face position, body placement, palette, chunky pixels, and all background elements identically across all four frames. ONLY animate her near/right arm and the existing red-and-white Diet Coke drink on the desk just to the right of her chair. Keep her other hand at the keyboard. TOP LEFT = reaching right and grasping the upright drink on the desk. TOP RIGHT = holding the drink in the hand, lifted halfway between the desk and mouth, elbow naturally bent, drink moving in front of the torso. BOTTOM LEFT = taking a sip with the drink opening physically touching the lips, drink tilted toward the mouth, hand visibly gripping it, elbow lowered naturally. BOTTOM RIGHT = lowering the drink back toward its original desk position, still firmly held. Exactly one drink exists in each frame; the original desk spot is EMPTY whenever the drink is held up. No floating drink, no detached hand, no extra limbs, no ghost images. The woman's head and chair must stay perfectly fixed in place between frames. Use genuine crisp low-resolution pixel animation, not smooth illustration. This will be sliced into real animation keyframes; registration and physically connected hand/drink motion are essential.

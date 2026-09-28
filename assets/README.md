@@ -37,3 +37,5 @@ The current-work panels describe distributed systems and DePIN at Bloxtel. Compa
 ## Personalized room
 
 The displayed room is now `aapsi-pixel-room.gif`: the user’s public GitHub avatar reinterpreted as the seated pixel character. The original room remains credited above and supplies the animation frames. The generated character edit and full prompt are documented in [aapsi-pixel-room.prompt.md](./aapsi-pixel-room.prompt.md). `aapsi-pixel-room-still.png` is the reduced-motion fallback. The original `pixel-room.gif` is retained as the assembly source.
+
+The drinking-action correction uses a generated grip sprite and a connected arm/drink rig. The original bottle animation is suppressed so the drink cannot float independently or duplicate on the desk. Details and generation prompt are in `aapsi-pixel-room.prompt.md`.
