@@ -27,10 +27,10 @@
 
 ## Currently at Bloxtel
 
-My work sits at the intersection of **distributed systems, DePIN, and decentralized telecom infrastructure**—connecting backend services, physical networks, and onchain systems.
+At Bloxtel, my focus is **distributed systems and DePIN**. Bloxtel develops decentralized private 5G infrastructure with onchain identity and tokenized ownership.
 
 <p align="center">
-  <picture><img src="./assets/panels/bloxtel.svg" width="410" alt="Engineer at Bloxtel: distributed systems for decentralized telecom, backend services, and onchain–offchain integration."></picture>
+  <picture><img src="./assets/panels/bloxtel.svg" width="410" alt="Engineer at Bloxtel, focused on distributed systems, DePIN, and decentralized telecom infrastructure."></picture>
   <picture><img src="./assets/panels/depin.svg" width="410" alt="DePIN at Bloxtel: private 5G, onchain identity, tokenized infrastructure, and verifiable ownership."></picture>
 </p>
 
