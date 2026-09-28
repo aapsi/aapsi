@@ -27,40 +27,12 @@
 
 ## Where I go deep
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/network.svg" width="44" height="44" alt=""></p>
-<h3>Distributed systems & infrastructure</h3>
-<p>Distributed systems, backend architecture, and onchain–offchain integration. Focused on reliability and failure recovery.</p>
-<p><code>System design</code> <code>Reliability</code></p>
-<p><b>Design for the failure modes.</b></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/layers.svg" width="44" height="44" alt=""></p>
-<h3>RWA tokenization</h3>
-<p>Well versed in real-world asset tokenization: asset representation, token design, and the onchain asset lifecycle.</p>
-<p><code>Asset lifecycle</code> <code>Token design</code></p>
-<p><b>Real assets. Thoughtful onchain design.</b></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/landmark.svg" width="44" height="44" alt=""></p>
-<h3>Institutional banking & RWA</h3>
-<p>Well versed in institutional RWA and banking use cases, spanning identity, compliance, ownership, and settlement.</p>
-<p><code>Institutional finance</code> <code>DLT</code></p>
-<p><b>Bridging banking and tokenized assets.</b></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/shield-check.svg" width="44" height="44" alt=""></p>
-<h3>DeFi & security</h3>
-<p>Smart contracts, vaults, financial primitives, and protocol security.</p>
-<p><code>Solidity</code> <code>Yul</code> <code>Foundry</code></p>
-<p><b>Understand it. Test it. Break it.</b></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/panels/systems.svg" width="410" alt="Distributed systems and infrastructure: backend architecture, service coordination, onchain–offchain integration, reliability, and failure recovery.">
+  <img src="./assets/panels/rwa.svg" width="410" alt="Well versed in RWA tokenization: asset representation, token design, and the onchain asset lifecycle.">
+  <img src="./assets/panels/banking.svg" width="410" alt="Well versed in institutional RWA and banking use cases: identity, compliance, ownership, and settlement.">
+  <img src="./assets/panels/defi.svg" width="410" alt="DeFi and security: smart contracts, vaults, financial primitives, protocol security. Solidity, Yul, Foundry.">
+</p>
 
 ## Languages & toolkit
 
@@ -77,36 +49,12 @@
 
 ## Currently loading into my brain
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/brain.svg" width="44" height="44" alt=""></p>
-<h3>Neuroscience</h3>
-<p>Learning, memory, and cognition.</p>
-<p><i>How do connected neurons become a mind?</i></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/key-round.svg" width="44" height="44" alt=""></p>
-<h3>DLT & privacy</h3>
-<p>Consensus, interoperability, and trust.</p>
-<p><i>What should a shared system reveal—and protect?</i></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/chart-no-axes-combined.svg" width="44" height="44" alt=""></p>
-<h3>The next chapter of RWA</h3>
-<p>Deepening my work around institutional adoption and how tokenized assets fit into existing financial systems.</p>
-<p><i>How does tokenization become everyday infrastructure?</i></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/workflow.svg" width="44" height="44" alt=""></p>
-<h3>DeFi & system design</h3>
-<p>Mechanisms, risk, and resilience.</p>
-<p><i>What happens outside the happy path?</i></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/panels/neuroscience.svg" width="410" alt="Learning neuroscience: memory, cognition, and how connected neurons become a mind.">
+  <img src="./assets/panels/privacy.svg" width="410" alt="Exploring DLT and privacy: consensus, interoperability, and trust.">
+  <img src="./assets/panels/rwa-next.svg" width="410" alt="Deepening my RWA expertise: institutional adoption and the role of tokenized assets in financial systems.">
+  <img src="./assets/panels/resilience.svg" width="410" alt="Exploring DeFi mechanisms, system resilience, risk, and failure modes.">
+</p>
 
 ## The GitHub side of the story
 
@@ -119,23 +67,22 @@
 
 ## Things I write & contribute
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/notebook-pen.svg" width="44" height="44" alt=""></p>
-<h3>Notes from the rabbit hole</h3>
-<p><a href="https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5">Inside the Polter Finance hack</a></p>
-<p><a href="https://rootstock.hashnode.dev/building-an-erc20-permit-token-on-rootstock-a-complete-guide">ERC20 Permit on Rootstock</a></p>
-<p><a href="https://rootstock.hashnode.dev/writing-secure-smart-contracts-on-rootstock-the-importance-of-the-cei-pattern">The CEI security pattern</a></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="./assets/icons/git-pull-request.svg" width="44" height="44" alt=""></p>
-<h3>Working in the open</h3>
-<p><b>Compose</b><br><a href="https://github.com/Perfect-Abstractions/Compose/pull/286">ERC-1155 facets</a> · <a href="https://github.com/Perfect-Abstractions/Compose/pull/166">tests</a> · <a href="https://github.com/Perfect-Abstractions/Compose/pull/126">ERC-2981</a></p>
-<p><b>Ethereum</b><br><a href="https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Aaapsi+is%3Amerged">EIP specification & documentation corrections</a></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://medium.com/@aapsikhaira98"><img src="./assets/panels/writing.svg" width="410" alt="Read my writing on smart contract security, DeFi, and protocols."></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aaapsi&type=pullrequests"><img src="./assets/panels/opensource.svg" width="410" alt="Explore my merged open-source contributions to Compose and Ethereum."></a>
+</p>
+
+<details>
+<summary>Selected articles & merged contributions</summary>
+
+- [Inside the Polter Finance hack](https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5)
+- [ERC20 Permit on Rootstock](https://rootstock.hashnode.dev/building-an-erc20-permit-token-on-rootstock-a-complete-guide)
+- [The CEI security pattern](https://rootstock.hashnode.dev/writing-secure-smart-contracts-on-rootstock-the-importance-of-the-cei-pattern)
+- Compose: [ERC-1155 facets](https://github.com/Perfect-Abstractions/Compose/pull/286) · [tests](https://github.com/Perfect-Abstractions/Compose/pull/166) · [ERC-2981](https://github.com/Perfect-Abstractions/Compose/pull/126)
+- Ethereum: [EIP specification & documentation corrections](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Aaapsi+is%3Amerged)
+
+</details>
+
 
 <details>
 <summary>Open the reading drawer</summary>
