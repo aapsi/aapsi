@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pixel-room-still.png">
-    <img src="./assets/pixel-room.gif" width="800" alt="An animated pixel-art gaming room, with Mario characters and a glowing computer desk.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/aapsi-pixel-room-still.png">
+    <img src="./assets/aapsi-pixel-room.gif" width="800" alt="A pixel-art version of Aapsi at her desk in an animated gaming room.">
   </picture>
 </p>
 
@@ -56,13 +56,15 @@ At Bloxtel, my focus is **distributed systems and DePIN**. Bloxtel develops dece
   <sub>React · Node.js · Git · Foundry · Hardhat</sub>
 </p>
 
-## Currently loading into my brain
+## What keeps me curious
+
+I'm drawn to how small interactions create complex behavior—from a neuron firing to a distributed network reaching agreement. Right now, I'm exploring the brain's electrical foundations, while following questions about trust, ownership, and resilience in the systems we build.
 
 <p align="center">
-  <picture><img src="./assets/panels/neuroscience.svg" width="410" alt="Learning neuroscience: memory, cognition, and how connected neurons become a mind."></picture>
-  <picture><img src="./assets/panels/privacy.svg" width="410" alt="Exploring DLT and privacy: consensus, interoperability, and trust."></picture>
-  <picture><img src="./assets/panels/rwa-next.svg" width="410" alt="Deepening my RWA expertise: institutional adoption and the role of tokenized assets in financial systems."></picture>
-  <picture><img src="./assets/panels/resilience.svg" width="410" alt="Exploring DeFi mechanisms, system resilience, risk, and failure modes."></picture>
+  <picture><img src="./assets/panels/neuroscience.svg" width="410" alt="Exploring the brain from the cell up: ion channels, membrane potentials, and the electrical language of neurons."></picture>
+  <picture><img src="./assets/panels/privacy.svg" width="410" alt="DLT and privacy: how strangers agree on shared state, and what a system should prove without revealing."></picture>
+  <picture><img src="./assets/panels/rwa-next.svg" width="410" alt="Deepening my RWA expertise: what makes tokenized ownership useful, trustworthy, and usable by institutions."></picture>
+  <picture><img src="./assets/panels/resilience.svg" width="410" alt="System resilience: how incentives, partial failures, and imperfect information shape real-world behavior."></picture>
 </p>
 
 ## The GitHub side of the story
