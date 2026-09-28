@@ -9,22 +9,7 @@
 
 <p align="center"><b>Engineer at <a href="https://bloxtel.com/">Bloxtel</a> · India</b></p>
 
-I’m a **software engineer working across distributed systems, infrastructure, and decentralized networks**. My work spans system design, backend services, and the applications people use—connecting the pieces into reliable, end-to-end systems.
-
-I started in **smart contract development**, building a strong foundation in Solidity, DeFi, and protocol security. Today, that foundation informs a broader engineering practice across onchain and offchain systems.
-
-I’m well versed in **RWA tokenization and institutional banking use cases**—connecting asset representation, ownership, and settlement with programmable financial infrastructure. My broader interests include DePIN, DLT, and privacy.
-
-Beyond engineering, I’m exploring **biological intelligence**—how living systems learn and adapt, and what those mechanisms could teach us about building AI.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/focus-static-dark.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/focus-static-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-typing-dark.svg">
-    <img src="./assets/focus-typing-light.svg" width="700" alt="">
-  </picture>
-</p>
+<p align="center">Software engineer across distributed systems, infrastructure, and Web3.<br>From smart contract foundations to building complete systems.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aapsi-khaira-308283162/"><img src="./assets/badges/linkedin.svg" height="28" alt="LinkedIn"></a>
@@ -32,6 +17,17 @@ Beyond engineering, I’m exploring **biological intelligence**—how living sys
   <a href="mailto:aapsikhaira98@gmail.com"><img src="./assets/badges/email.svg" height="28" alt="Say hello by email"></a>
   <a href="https://medium.com/@aapsikhaira98"><img src="./assets/badges/writing.svg" height="28" alt="Read my writing"></a>
 </p>
+
+### Engineering beyond the contract
+
+<p><picture><img src="./assets/icons/network.svg" width="28" height="28" alt=""></picture> <b>Systems & infrastructure</b><br>
+System design, backend services, and applications that connect onchain and offchain systems. Currently focused on distributed systems and DePIN at Bloxtel.</p>
+
+<p><picture><img src="./assets/icons/shield-check.svg" width="28" height="28" alt=""></picture> <b>Smart contracts & institutional finance</b><br>
+A strong foundation in Solidity, DeFi, and protocol security. Well versed in RWA tokenization and institutional banking use cases.</p>
+
+<p><picture><img src="./assets/icons/brain.svg" width="28" height="28" alt=""></picture> <b>Following my curiosity</b><br>
+Exploring how biological intelligence could inform AI—and how DLT and privacy shape the systems we build.</p>
 
 ## Currently at Bloxtel
 
