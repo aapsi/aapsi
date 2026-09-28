@@ -1,96 +1,127 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/welcome-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="./assets/welcome-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/welcome-dark.svg">
-  <img src="./assets/welcome-light.svg" width="100%" alt="Aapsi Khaira — engineering across contracts, infrastructure, and product.">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pixel-room-still.png">
+    <img src="./assets/pixel-room.gif" width="800" alt="An animated pixel-art gaming room, with Mario characters and a glowing computer desk.">
+  </picture>
+</p>
 
-# Hey, I'm Aapsi.
+<h1 align="center">Hi, I'm Aapsi</h1>
 
-**Engineer at [Bloxtel](https://github.com/bloxtel) · Based in India.**
+<p align="center"><b>Engineer at <a href="https://github.com/bloxtel">Bloxtel</a> · India</b><br>Building systems. Following curiosity.</p>
 
-I build across smart contracts, backend systems, and the interfaces that bring them to people. My work has grown from full-stack development into DeFi, protocol security, system design, and decentralized infrastructure. I like understanding the whole system: how it works, where it breaks, and what makes it useful.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/focus-static-dark.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/focus-static-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-typing-dark.svg">
+    <img src="./assets/focus-typing-light.svg" width="700" alt="System design, DeFi, and distributed systems. Exploring neuroscience and institutional RWA. Always asking how it actually works.">
+  </picture></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/aapsi-khaira-308283162/) · [X](https://x.com/AapsiK) · [Email](mailto:aapsikhaira98@gmail.com) · [Writing](https://medium.com/@aapsikhaira98)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aapsi-khaira-308283162/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://x.com/AapsiK">X</a> &nbsp; / &nbsp;
+  <a href="mailto:aapsikhaira98@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://medium.com/@aapsikhaira98">Writing</a>
+</p>
 
-## What I work on
+## The engineering side
 
-- **DeFi & protocol engineering.** Smart contracts, token standards, vaults, and composable financial primitives. Solidity, Yul, Foundry, and Hardhat.
-- **System design & infrastructure.** Backend architecture, distributed systems, and the connections between onchain and offchain services. Go, Node.js, and TypeScript.
-- **Security & product.** Reasoning about trust boundaries and failure modes, testing assumptions, and building interfaces that make complex systems usable.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Systems & infra</h3>
+<p>Distributed systems.<br>Backend architecture.<br>Onchain ↔ offchain.</p>
+<p><code>Go</code> <code>TypeScript</code> <code>Node.js</code></p>
+<p><b>Design for the failure modes.</b></p>
+</td>
+<td width="50%" valign="top">
+<h3>DeFi & security</h3>
+<p>Smart contracts & vaults.<br>Financial primitives.<br>Protocol security.</p>
+<p><code>Solidity</code> <code>Yul</code> <code>Foundry</code></p>
+<p><b>Understand it. Test it. Break it.</b></p>
+</td>
+</tr>
+</table>
 
-## Currently learning & exploring
+<p align="center">
+  <a href="https://github.com/tandpfun/skill-icons"><img src="./assets/toolkit.svg" width="390" alt="Solidity, Go, TypeScript, React, Node.js, and Git"></a><br>
+  <sub>Contracts to infrastructure to interfaces. Also working with Hardhat.</sub>
+</p>
 
-- **Neuroscience** — how learning, memory, and cognition emerge from connected systems.
-- **Institutional RWA** — tokenization, identity, compliance, and the infrastructure connecting real-world assets to onchain finance.
-- **Distributed ledger technology (DLT)** — consensus, interoperability, privacy, and the tradeoffs behind shared infrastructure.
-- **DeFi & system design** — market mechanisms, protocol risk, and architectures that hold up beyond the happy path.
+## Currently loading into my brain
 
-## Things I've built
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Neuroscience</h3>
+<p>Learning. Memory. Cognition.</p>
+<p><i>How do connected neurons become a mind?</i></p>
+</td>
+<td width="50%" valign="top">
+<h3>Institutional RWA</h3>
+<p>Tokenization. Identity. Compliance.</p>
+<p><i>What does it take to bring real-world assets onchain?</i></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>DLT & privacy</h3>
+<p>Consensus. Interoperability. Trust.</p>
+<p><i>What should a shared system reveal—and protect?</i></p>
+</td>
+<td width="50%" valign="top">
+<h3>DeFi & system design</h3>
+<p>Mechanisms. Risk. Resilience.</p>
+<p><i>What happens outside the happy path?</i></p>
+</td>
+</tr>
+</table>
 
-**[PolkaSig](https://github.com/aapsi/PolkaSig)**<br>
-A Safe module exploring EVM and Substrate co-signing on Polkadot Hub, with Solidity-to-Rust signature verification.<br>
-<sub>Solidity · Rust · PolkaVM · Safe</sub>
+## The GitHub side of the story
 
-**[YieldDrip](https://github.com/aapsi/Yield-Drip)**<br>
-A DeFi project combining dollar-cost averaging with yield-bearing capital, built around the 1inch Limit Order Protocol.<br>
-<sub>Solidity · ERC-4626 · TypeScript · Next.js</sub>
+<p align="center">
+  <a href="https://github.com/aapsi?tab=overview"><img src="./assets/cards/profile-details.svg" width="700" alt="Aapsi's GitHub contribution timeline, generated from public profile data"></a><br>
+  <a href="https://github.com/aapsi?tab=overview"><img src="./assets/cards/stats.svg" width="340" alt="GitHub statistics: stars, commits, pull requests, issues, and repositories contributed to"></a>
+  <a href="https://github.com/aapsi?tab=repositories"><img src="./assets/cards/languages.svg" width="340" alt="Languages across public repositories, led by Solidity"></a><br>
+  <sub>Public GitHub activity · cards refreshed daily</sub>
+</p>
 
-**[MEVSpy](https://github.com/aapsi/MEVSpy)**<br>
-An exploration of MEV detection through graph neural networks and transaction patterns.<br>
-<sub>Python · Graph neural networks · Ethereum</sub>
+## Things I write & contribute
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Notes from the rabbit hole</h3>
+<p><a href="https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5">Inside the Polter Finance hack</a></p>
+<p><a href="https://rootstock.hashnode.dev/building-an-erc20-permit-token-on-rootstock-a-complete-guide">ERC20 Permit on Rootstock</a></p>
+<p><a href="https://rootstock.hashnode.dev/writing-secure-smart-contracts-on-rootstock-the-importance-of-the-cei-pattern">The CEI security pattern</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Working in the open</h3>
+<p><b>Compose</b><br><a href="https://github.com/Perfect-Abstractions/Compose/pull/286">ERC-1155 facets</a> · <a href="https://github.com/Perfect-Abstractions/Compose/pull/166">tests</a> · <a href="https://github.com/Perfect-Abstractions/Compose/pull/126">ERC-2981</a></p>
+<p><b>Ethereum</b><br><a href="https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Aaapsi+is%3Amerged">EIP specification & documentation corrections</a></p>
+</td>
+</tr>
+</table>
 
 <details>
-<summary>More experiments, closer to the metal</summary>
+<summary>Open the reading drawer</summary>
 
-- [Yul & Assembly](https://github.com/aapsi/Yul-and-Assembly) — working below Solidity's abstractions.
-- [Tokenized Vaults](https://github.com/aapsi/Tokenized-Vaults-ERC4626) — exploring ERC-4626.
-- [Uniswap v4 Limit Orders](https://github.com/aapsi/UniswapV4-Limit-Orders) — experimenting with hooks.
-- [Build a Blockchain in Go](https://github.com/aapsi/build-a-blockchain-in-go) — learning the machinery by building it.
-
-</details>
-
-## Working in the open
-
-I contribute code, tests, and documentation to projects I learn from and build on.
-
-- **Compose:** [ERC-1155 modular facets](https://github.com/Perfect-Abstractions/Compose/pull/286), [ERC-1155 tests](https://github.com/Perfect-Abstractions/Compose/pull/166), and an [ERC-2981 royalty implementation](https://github.com/Perfect-Abstractions/Compose/pull/126).
-- **Ethereum EIPs:** [specification and documentation corrections](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Aaapsi+is%3Amerged).
-- **RWA Creator:** [Amoy testnet support in scripts and tooling](https://github.com/PatrickAlphaC/rwa-creator/pull/22).
-
-## Notes from the work
-
-I write to make complex systems easier to reason about.
-
-- [Overview of the Polter Finance Hack](https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5)
-- [Building an ERC20 Permit Token on Rootstock](https://rootstock.hashnode.dev/building-an-erc20-permit-token-on-rootstock-a-complete-guide)
-- [Writing Secure Contracts: the CEI Pattern](https://rootstock.hashnode.dev/writing-secure-smart-contracts-on-rootstock-the-importance-of-the-cei-pattern)
 - [Forking Ethereum Mainnet for Testing with Hardhat](https://medium.com/coinmonks/forking-ethereum-mainnet-a-comprehensive-guide-for-testing-with-hardhat-c78452bf71cb)
-
-<details>
-<summary>More writing</summary>
-
 - [Aptos Blockchain: A Developer's Guide](https://medium.com/@aapsikhaira98/aptos-blockchain-a-developers-guide-ed3b27eb0588)
-- [Solidity Style Guide: Naming Conventions & Function Order](https://medium.com/coinmonks/solidity-style-guide-correct-naming-convention-and-function-order-a1976eb0a9a2)
-- [Solidity Special Comments: NatSpec Format](https://coinsbench.com/solidity-special-comments-natspec-documentation-format-388da664a76a)
-- [Deploying ERC721 NFTs on Rootstock Testnet](https://rootstock.hashnode.dev/deploying-an-erc-721-nft-on-rootstock-testnet)
+- [Solidity Style Guide](https://medium.com/coinmonks/solidity-style-guide-correct-naming-convention-and-function-order-a1976eb0a9a2)
+- [NatSpec Documentation](https://coinsbench.com/solidity-special-comments-natspec-documentation-format-388da664a76a)
+- [ERC721 NFTs on Rootstock](https://rootstock.hashnode.dev/deploying-an-erc-721-nft-on-rootstock-testnet)
 
 </details>
 
----
-
-**Still curious. Still building.**<br>
-If you're working on useful infrastructure, thoughtful developer tools, or an interesting protocol, [let's talk](mailto:aapsikhaira98@gmail.com).
-
-<details>
-<summary>A little arcade break</summary>
+## Commit. Eat. Repeat.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/activity-static.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aapsi/aapsi/output/pacman-contribution-graph-dark.svg">
-  <img alt="An animated Pac-Man journey through my GitHub contributions" src="https://raw.githubusercontent.com/aapsi/aapsi/output/pacman-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-dark.svg">
+  <img alt="Pac-Man munching through my GitHub contributions" src="./assets/pacman-light.svg" width="100%">
 </picture>
 
-[View contribution activity](https://github.com/aapsi?tab=overview)
-
-</details>
+<p align="center"><b>Always curious. Never quite done.</b><br><a href="mailto:aapsikhaira98@gmail.com">Let's talk systems, protocols, or your latest rabbit hole.</a></p>

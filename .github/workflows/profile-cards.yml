@@ -1,0 +1,58 @@
+name: Refresh profile cards
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/profile-cards.yml']
+permissions:
+  contents: write
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Fetch public summary cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/profile-cards
+          for pair in profile-details:profile-details stats:stats languages:repos-per-language; do
+            name="${pair%%:*}"
+            endpoint="${pair#*:}"
+            curl --fail --silent --show-error --location --max-time 45 --retry 2 \
+              "https://github-profile-summary-cards.vercel.app/api/cards/${endpoint}?username=aapsi&theme=tokyonight" \
+              -o "/tmp/profile-cards/${name}.svg"
+          done
+          curl --fail --silent --show-error --location --max-time 45 --retry 2 \
+            https://raw.githubusercontent.com/aapsi/aapsi/output/pacman-contribution-graph.svg -o /tmp/profile-cards/pacman-light.svg
+          curl --fail --silent --show-error --location --max-time 45 --retry 2 \
+            https://raw.githubusercontent.com/aapsi/aapsi/output/pacman-contribution-graph-dark.svg -o /tmp/profile-cards/pacman-dark.svg
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          for path in Path('/tmp/profile-cards').glob('*.svg'):
+              root = ET.parse(path).getroot()
+              assert root.tag.endswith('svg'), path
+              path.write_text('\n'.join(line.rstrip() for line in path.read_text().splitlines()).rstrip() + '\n')
+              assert path.stat().st_size > 1000, path
+              assert not any(word in ''.join(root.itertext()).lower() for word in ['rate limit', 'something went wrong', 'not found']), path
+          PY
+          cp /tmp/profile-cards/profile-details.svg /tmp/profile-cards/stats.svg /tmp/profile-cards/languages.svg assets/cards/
+          cp /tmp/profile-cards/pacman-light.svg /tmp/profile-cards/pacman-dark.svg assets/
+      - name: Commit refreshed cards
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/cards assets/pacman-light.svg assets/pacman-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh public profile cards'
+            git pull --rebase origin main
+            git push
+          fi
