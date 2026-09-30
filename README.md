@@ -94,38 +94,11 @@ I write about smart contract security, DeFi, and protocol behavior.
 
 <br>
 
-## Languages & toolkit
+## How I work
 
-<p align="center">
-  <b>Languages</b><br><br>
-  <picture><img src="./assets/languages.svg" width="340" alt="Go, Rust, TypeScript, JavaScript, Python, and Solidity"></picture><br>
-  <sub>Go · Rust · TypeScript · JavaScript · Python · Solidity · Yul</sub>
-</p>
+My work focuses on **DePIN, distributed systems, and RWA tokenization**—connecting software, physical infrastructure, and onchain financial systems.
 
-<br>
-
-<p align="center">
-  <b>Applications</b><br><br>
-  <picture><img src="./assets/application-toolkit.svg" width="280" alt="React, Next.js, Tailwind CSS, Node.js, and Express"></picture><br>
-  <sub>React · Next.js · Tailwind CSS · Node.js · Express</sub>
-</p>
-
-<br>
-
-<p align="center"><b>Data & persistence</b><br>
-MongoDB · Mongoose</p>
-
-<p align="center"><b>Protocols & standards</b><br>
-Ethereum / EVM · ERC-20 · ERC-721 · ERC-1155 · ERC-2981</p>
-
-<p align="center"><b>AI & agent tooling</b><br>
-Security guidance and plugin contributions to ethskills</p>
-
-<p align="center"><b>Contract development & testing</b><br>
-Foundry · Hardhat</p>
-
-<p align="center"><b>Version control & automation</b><br>
-Git · GitHub Actions</p>
+I started in smart contract development and now work across system design, backend services, and applications. That foundation in DeFi and protocol security shapes how I approach decentralized infrastructure and tokenized assets, including their use in institutional banking.
 
 <br>
 
